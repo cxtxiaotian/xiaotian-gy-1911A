@@ -47,5 +47,5 @@
 # print(path)
 #
 # os.system("ipconfig")
-print(123456)
-# print(dsagfsdg)
+#print(123456)
+print("dsagfsdg")
